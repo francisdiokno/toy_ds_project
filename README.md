@@ -1,2 +1,2 @@
 # toy_ds_project
-Created for Worksheet 5: Version Control | DSCI 100 Course
+project creation date: October 7, 2022
